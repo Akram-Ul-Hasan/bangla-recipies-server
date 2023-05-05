@@ -1,14 +1,15 @@
 [
     {
       "id": 1,
-      "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Faisal Ahmed",
+      "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "chef_name": "Faisal Ahmed",
       "years_of_experience": 10,
       "num_of_recipes": 5,
       "likes": 300,
       "recipes": [
         {
           "recipe_id": 1,
+          "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
           "name": "Beef Curry",
           "ingredients": [
             "1 pound beef",
@@ -28,6 +29,7 @@
         },
         {
             "recipe_id": 2,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Shorshe Ilish",
             "ingredients": [
               "1 pound hilsa fish",
@@ -45,6 +47,7 @@
           },
         {
           "recipe_id": 3,
+          "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
           "name": "Fish Curry",
           "ingredients": [
             "1 pound fish",
@@ -64,6 +67,7 @@
         },
         {
             "recipe_id": 4,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Chittagong Style Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -84,14 +88,15 @@
     },
     {
         "id": 2,
-        "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Akram-Ul Hasan",
+        "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_name": "Akram-Ul Hasan",
         "years_of_experience": 12,
         "num_of_recipes": 5,
         "likes": 400,
         "recipes": [
           {
             "recipe_id": 1,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -111,6 +116,7 @@
           },
           {
               "recipe_id": 2,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Shorshe Ilish",
               "ingredients": [
                 "1 pound hilsa fish",
@@ -128,6 +134,7 @@
             },
           {
             "recipe_id": 3,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Fish Curry",
             "ingredients": [
               "1 pound fish",
@@ -147,6 +154,7 @@
           },
           {
               "recipe_id": 4,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Chittagong Style Beef Curry",
               "ingredients": [
                 "1 pound beef",
@@ -167,14 +175,15 @@
       },
       {
         "id": 3,
-        "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Shorab Hossain",
+        "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_name": "Shorab Hossain",
         "years_of_experience": 8,
         "num_of_recipes": 5,
         "likes": 300,
         "recipes": [
           {
             "recipe_id": 1,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -194,6 +203,7 @@
           },
           {
               "recipe_id": 2,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Shorshe Ilish",
               "ingredients": [
                 "1 pound hilsa fish",
@@ -211,6 +221,7 @@
             },
           {
             "recipe_id": 3,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Fish Curry",
             "ingredients": [
               "1 pound fish",
@@ -230,6 +241,7 @@
           },
           {
               "recipe_id": 4,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Chittagong Style Beef Curry",
               "ingredients": [
                 "1 pound beef",
@@ -250,14 +262,15 @@
       },
       {
         "id": 4,
-        "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Mahmud UL Hasan",
+        "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_name": "Mahmud UL Hasan",
         "years_of_experience": 6,
         "num_of_recipes": 5,
         "likes": 200,
         "recipes": [
           {
             "recipe_id": 1,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -277,6 +290,7 @@
           },
           {
               "recipe_id": 2,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Shorshe Ilish",
               "ingredients": [
                 "1 pound hilsa fish",
@@ -294,6 +308,7 @@
             },
           {
             "recipe_id": 3,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Fish Curry",
             "ingredients": [
               "1 pound fish",
@@ -313,6 +328,7 @@
           },
           {
               "recipe_id": 4,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Chittagong Style Beef Curry",
               "ingredients": [
                 "1 pound beef",
@@ -333,14 +349,15 @@
       },
       {
         "id": 5,
-        "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Sibbir ahmed",
+        "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_name": "Sibbir ahmed",
         "years_of_experience": 10,
         "num_of_recipes": 5,
         "likes": 250,
         "recipes": [
           {
             "recipe_id": 1,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -360,6 +377,7 @@
           },
           {
               "recipe_id": 2,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Shorshe Ilish",
               "ingredients": [
                 "1 pound hilsa fish",
@@ -377,6 +395,7 @@
             },
           {
             "recipe_id": 3,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Fish Curry",
             "ingredients": [
               "1 pound fish",
@@ -396,6 +415,7 @@
           },
           {
               "recipe_id": 4,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Chittagong Style Beef Curry",
               "ingredients": [
                 "1 pound beef",
@@ -411,19 +431,20 @@
                 "Wrap fish with banana leaves and steam for 20 minutes"
               ],
               "rating": 4.7
-            }
+           }
           ]
       },
       {
         "id": 6,
-        "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Mushfiqur Rahman",
+        "photo": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "chef_name": "Mushfiqur Rahman",
         "years_of_experience": 9,
         "num_of_recipes": 5,
         "likes": 350,
         "recipes": [
           {
             "recipe_id": 1,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Beef Curry",
             "ingredients": [
               "1 pound beef",
@@ -444,6 +465,7 @@
           {
               "recipe_id": 2,
               "name": "Shorshe Ilish",
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "ingredients": [
                 "1 pound hilsa fish",
                 "1 tablespoon mustard",
@@ -460,6 +482,7 @@
             },
           {
             "recipe_id": 3,
+            "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
             "name": "Fish Curry",
             "ingredients": [
               "1 pound fish",
@@ -479,6 +502,7 @@
           },
           {
               "recipe_id": 4,
+              "recipe_photo": "https://images.slurrp.com/prod/recipe_images/transcribe/side%20dish/Ilish_Bhapa_Shorshe.webp",
               "name": "Chittagong Style Beef Curry",
               "ingredients": [
                 "1 pound beef",
